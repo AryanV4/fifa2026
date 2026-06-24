@@ -2260,8 +2260,12 @@
                         ? `<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--text-tertiary); opacity: 0.65; margin-right: 8px; flex-shrink: 0;"><path d="M4 15s1-1 4-1 5 2 8 2 4-1 4-1V3s-1 1-4 1-5-2-8-2-4 1-4 1z"/><line x1="4" y1="22" x2="4" y2="15"/></svg>`
                         : `<span class="flag" style="margin-right: 8px; flex-shrink: 0;">${m.flag2}</span>`;
                     
+                    const bronzeLabel = m.isBronze ? `<div style="text-align: center; font-size: 0.65rem; color: #cd7f32; font-weight: 800; text-transform: uppercase; margin-bottom: 0.6rem; letter-spacing: 1.5px; border-bottom: 1px solid rgba(205,127,50,0.2); padding-bottom: 0.3rem;">🥉 Bronze Match</div>` : '';
+                    const extraStyles = m.isBronze ? 'border-color: rgba(205,127,50,0.5); box-shadow: 0 4px 15px rgba(205,127,50,0.15);' : '';
+                    
                     html += `
-                        <div class="bracket-match" id="match-${m.id}">
+                        <div class="bracket-match" id="match-${m.id}" style="${extraStyles}">
+                            ${bronzeLabel}
                             <div class="bracket-match-time">${m.date}</div>
                             <div class="bracket-team-row ${t1Class}" ${t1Onclick}>
                                 <div class="team-name-group" style="display: flex; align-items: center;">

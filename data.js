@@ -1934,6 +1934,15 @@ const tournamentData = {
                 "flag1": "🏳️",
                 "team2": "TBD",
                 "flag2": "🏳️"
+            },
+            {
+                "id": "Bronze",
+                "date": "Sat, 18 Jul, 5:30 am",
+                "team1": "TBD",
+                "flag1": "🏳️",
+                "team2": "TBD",
+                "flag2": "🏳️",
+                "isBronze": true
             }
         ],
         "final": [
