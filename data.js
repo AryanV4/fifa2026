@@ -402,24 +402,24 @@ const tournamentData = {
         ],
         "I": [
             {
-                "team": "France",
-                "flag": "🇫🇷",
-                "pld": 2,
-                "gf": 6,
-                "ga": 1,
-                "gd": 5,
-                "pts": 6,
-                "wins": 2,
-                "draws": 0,
-                "losses": 0
-            },
-            {
                 "team": "Norway",
                 "flag": "🇳🇴",
                 "pld": 2,
                 "gf": 7,
                 "ga": 3,
                 "gd": 4,
+                "pts": 6,
+                "wins": 2,
+                "draws": 0,
+                "losses": 0
+            },
+            {
+                "team": "France",
+                "flag": "🇫🇷",
+                "pld": 2,
+                "gf": 4,
+                "ga": 1,
+                "gd": 3,
                 "pts": 6,
                 "wins": 2,
                 "draws": 0,
@@ -442,8 +442,8 @@ const tournamentData = {
                 "flag": "🇮🇶",
                 "pld": 2,
                 "gf": 1,
-                "ga": 7,
-                "gd": -6,
+                "ga": 5,
+                "gd": -4,
                 "pts": 0,
                 "wins": 0,
                 "draws": 0,
@@ -505,9 +505,9 @@ const tournamentData = {
                 "team": "Colombia",
                 "flag": "🇨🇴",
                 "pld": 2,
-                "gf": 5,
+                "gf": 4,
                 "ga": 1,
-                "gd": 4,
+                "gd": 3,
                 "pts": 6,
                 "wins": 2,
                 "draws": 0,
@@ -517,9 +517,9 @@ const tournamentData = {
                 "team": "Portugal",
                 "flag": "🇵🇹",
                 "pld": 2,
-                "gf": 4,
+                "gf": 6,
                 "ga": 1,
-                "gd": 3,
+                "gd": 5,
                 "pts": 4,
                 "wins": 1,
                 "draws": 1,
@@ -530,8 +530,8 @@ const tournamentData = {
                 "flag": "🇨🇬",
                 "pld": 2,
                 "gf": 1,
-                "ga": 3,
-                "gd": -2,
+                "ga": 2,
+                "gd": -1,
                 "pts": 1,
                 "wins": 0,
                 "draws": 1,
@@ -542,8 +542,8 @@ const tournamentData = {
                 "flag": "🇺🇿",
                 "pld": 2,
                 "gf": 1,
-                "ga": 6,
-                "gd": -5,
+                "ga": 8,
+                "gd": -7,
                 "pts": 0,
                 "wins": 0,
                 "draws": 0,
@@ -555,33 +555,33 @@ const tournamentData = {
                 "team": "England",
                 "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
                 "pld": 2,
-                "gf": 6,
-                "ga": 3,
-                "gd": 3,
-                "pts": 6,
-                "wins": 2,
-                "draws": 0,
+                "gf": 4,
+                "ga": 2,
+                "gd": 2,
+                "pts": 4,
+                "wins": 1,
+                "draws": 1,
+                "losses": 0
+            },
+            {
+                "team": "Ghana",
+                "flag": "🇬🇭",
+                "pld": 2,
+                "gf": 1,
+                "ga": 0,
+                "gd": 1,
+                "pts": 4,
+                "wins": 1,
+                "draws": 1,
                 "losses": 0
             },
             {
                 "team": "Croatia",
                 "flag": "🇭🇷",
                 "pld": 2,
-                "gf": 4,
+                "gf": 3,
                 "ga": 4,
-                "gd": 0,
-                "pts": 3,
-                "wins": 1,
-                "draws": 0,
-                "losses": 1
-            },
-            {
-                "team": "Ghana",
-                "flag": "🇬🇭",
-                "pld": 2,
-                "gf": 2,
-                "ga": 2,
-                "gd": 0,
+                "gd": -1,
                 "pts": 3,
                 "wins": 1,
                 "draws": 0,
@@ -592,8 +592,8 @@ const tournamentData = {
                 "flag": "🇵🇦",
                 "pld": 2,
                 "gf": 0,
-                "ga": 3,
-                "gd": -3,
+                "ga": 2,
+                "gd": -2,
                 "pts": 0,
                 "wins": 0,
                 "draws": 0,
@@ -1305,14 +1305,13 @@ const tournamentData = {
             "group": "I",
             "team1": "France",
             "flag1": "🇫🇷",
-            "score1": 3,
+            "score1": 1,
             "team2": "Iraq",
             "flag2": "🇮🇶",
             "score2": 0,
             "status": "FT",
             "scorers1": [
-                "K. Mbappé 14', 54'",
-                "O. Dembélé 66'"
+                "K. Mbappé 54'"
             ],
             "scorers2": []
         },
@@ -1357,14 +1356,16 @@ const tournamentData = {
             "group": "K",
             "team1": "Portugal",
             "flag1": "🇵🇹",
-            "score1": 3,
+            "score1": 5,
             "team2": "Uzbekistan",
             "flag2": "🇺🇿",
             "score2": 0,
             "status": "FT",
             "scorers1": [
                 "C. Ronaldo 12', 45'",
-                "B. Fernandes 78'"
+                "N. Mendes 50'",
+                "A. Nematov 60' (OG)",
+                "R. Leão 78'"
             ],
             "scorers2": []
         },
@@ -1373,18 +1374,13 @@ const tournamentData = {
             "group": "L",
             "team1": "England",
             "flag1": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-            "score1": 2,
+            "score1": 0,
             "team2": "Ghana",
             "flag2": "🇬🇭",
-            "score2": 1,
+            "score2": 0,
             "status": "FT",
-            "scorers1": [
-                "H. Kane 22'",
-                "J. Bellingham 67'"
-            ],
-            "scorers2": [
-                "M. Kudus 55'"
-            ]
+            "scorers1": [],
+            "scorers2": []
         },
         {
             "date": "June 24",
@@ -1394,12 +1390,11 @@ const tournamentData = {
             "score1": 0,
             "team2": "Croatia",
             "flag2": "🇭🇷",
-            "score2": 2,
+            "score2": 1,
             "status": "FT",
             "scorers1": [],
             "scorers2": [
-                "A. Kramarić 34'",
-                "L. Modrić 88'"
+                "A. Budimir 54'"
             ]
         },
         {
@@ -1407,14 +1402,13 @@ const tournamentData = {
             "group": "K",
             "team1": "Colombia",
             "flag1": "🇨🇴",
-            "score1": 2,
+            "score1": 1,
             "team2": "DR Congo",
             "flag2": "🇨🇬",
             "score2": 0,
             "status": "FT",
             "scorers1": [
-                "L. Díaz 41'",
-                "J. Rodríguez 60'"
+                "D. Muñoz 76'"
             ],
             "scorers2": []
         }
