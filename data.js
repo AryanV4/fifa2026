@@ -1803,18 +1803,18 @@ const tournamentData = {
             {
                 "id": "M1",
                 "date": "Mon, 29 Jun, 12:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team1": "South Africa",
+                "flag1": "🇿🇦",
+                "team2": "Canada",
+                "flag2": "🇨🇦"
             },
             {
                 "id": "M2",
                 "date": "Tue, 30 Jun, 6:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team1": "Netherlands",
+                "flag1": "🇳🇱",
+                "team2": "Morocco",
+                "flag2": "🇲🇦"
             },
             {
                 "id": "M3",
@@ -1845,8 +1845,8 @@ const tournamentData = {
                 "date": "Thu, 2 Jul, 5:30 am",
                 "team1": "USA",
                 "flag1": "🇺🇸",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team2": "Bosnia & Herz.",
+                "flag2": "🇧🇦"
             },
             {
                 "id": "M7",
@@ -1867,16 +1867,16 @@ const tournamentData = {
             {
                 "id": "M9",
                 "date": "Mon, 29 Jun, 10:30 pm",
-                "team1": "TBD",
-                "flag1": "🏳️",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team1": "Brazil",
+                "flag1": "🇧🇷",
+                "team2": "Japan",
+                "flag2": "🇯🇵"
             },
             {
                 "id": "M10",
                 "date": "Tue, 30 Jun, 10:30 pm",
-                "team1": "TBD",
-                "flag1": "🏳️",
+                "team1": "Ivory Coast",
+                "flag1": "🇨🇮",
                 "team2": "TBD",
                 "flag2": "🏳️"
             },
@@ -1899,8 +1899,8 @@ const tournamentData = {
             {
                 "id": "M13",
                 "date": "Fri, 3 Jul, 8:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
+                "team1": "Switzerland",
+                "flag1": "🇨🇭",
                 "team2": "TBD",
                 "flag2": "🏳️"
             },
@@ -1915,8 +1915,8 @@ const tournamentData = {
             {
                 "id": "M15",
                 "date": "Fri, 3 Jul, 11:30 pm",
-                "team1": "TBD",
-                "flag1": "🏳️",
+                "team1": "Australia",
+                "flag1": "🇦🇺",
                 "team2": "TBD",
                 "flag2": "🏳️"
             },
