@@ -1760,8 +1760,8 @@ const tournamentData = {
     ],
     "upcoming": [
         {
-            "date": "June 27",
-            "time": "11:30 PM IST",
+            "date": "June 28",
+            "time": "2:30 am",
             "group": "L",
             "venue": "New York New Jersey Stadium",
             "team1": "Panama",
@@ -1770,8 +1770,8 @@ const tournamentData = {
             "flag2": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
         },
         {
-            "date": "June 27",
-            "time": "11:30 PM IST",
+            "date": "June 28",
+            "time": "2:30 am",
             "group": "L",
             "venue": "Philadelphia Stadium",
             "team1": "Croatia",
@@ -1781,7 +1781,7 @@ const tournamentData = {
         },
         {
             "date": "June 28",
-            "time": "2:00 AM IST",
+            "time": "5:00 am",
             "group": "K",
             "venue": "Miami Stadium",
             "team1": "Colombia",
@@ -1791,7 +1791,7 @@ const tournamentData = {
         },
         {
             "date": "June 28",
-            "time": "5:00 AM IST",
+            "time": "5:00 am",
             "group": "K",
             "venue": "Atlanta Stadium",
             "team1": "DR Congo",
@@ -1801,7 +1801,7 @@ const tournamentData = {
         },
         {
             "date": "June 28",
-            "time": "7:30 AM IST",
+            "time": "7:30 am",
             "group": "J",
             "venue": "Dallas Stadium",
             "team1": "Jordan",
@@ -1811,7 +1811,7 @@ const tournamentData = {
         },
         {
             "date": "June 28",
-            "time": "7:30 AM IST",
+            "time": "7:30 am",
             "group": "J",
             "venue": "Kansas City Stadium",
             "team1": "Algeria",
