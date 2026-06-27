@@ -302,152 +302,152 @@ const tournamentData = {
         ],
         "G": [
             {
+                "team": "Belgium",
+                "flag": "🇧🇪",
+                "pld": 3,
+                "gf": 6,
+                "ga": 2,
+                "gd": 4,
+                "pts": 5,
+                "wins": 1,
+                "draws": 2,
+                "losses": 0
+            },
+            {
                 "team": "Egypt",
                 "flag": "🇪🇬",
-                "pld": 2,
-                "gf": 4,
-                "ga": 2,
+                "pld": 3,
+                "gf": 5,
+                "ga": 3,
                 "gd": 2,
-                "pts": 4,
+                "pts": 5,
                 "wins": 1,
-                "draws": 1,
+                "draws": 2,
                 "losses": 0
             },
             {
                 "team": "Iran",
                 "flag": "🇮🇷",
-                "pld": 2,
-                "gf": 2,
-                "ga": 2,
+                "pld": 3,
+                "gf": 3,
+                "ga": 3,
                 "gd": 0,
-                "pts": 2,
+                "pts": 3,
                 "wins": 0,
-                "draws": 2,
-                "losses": 0
-            },
-            {
-                "team": "Belgium",
-                "flag": "🇧🇪",
-                "pld": 2,
-                "gf": 1,
-                "ga": 1,
-                "gd": 0,
-                "pts": 2,
-                "wins": 0,
-                "draws": 2,
+                "draws": 3,
                 "losses": 0
             },
             {
                 "team": "New Zealand",
                 "flag": "🇳🇿",
-                "pld": 2,
-                "gf": 3,
-                "ga": 5,
-                "gd": -2,
+                "pld": 3,
+                "gf": 4,
+                "ga": 10,
+                "gd": -6,
                 "pts": 1,
                 "wins": 0,
                 "draws": 1,
-                "losses": 1
+                "losses": 2
             }
         ],
         "H": [
             {
                 "team": "Spain",
                 "flag": "🇪🇸",
-                "pld": 2,
-                "gf": 4,
+                "pld": 3,
+                "gf": 5,
                 "ga": 0,
-                "gd": 4,
-                "pts": 4,
-                "wins": 1,
+                "gd": 5,
+                "pts": 7,
+                "wins": 2,
                 "draws": 1,
-                "losses": 0
-            },
-            {
-                "team": "Uruguay",
-                "flag": "🇺🇾",
-                "pld": 2,
-                "gf": 3,
-                "ga": 3,
-                "gd": 0,
-                "pts": 2,
-                "wins": 0,
-                "draws": 2,
                 "losses": 0
             },
             {
                 "team": "Cabo Verde",
                 "flag": "🇨🇻",
-                "pld": 2,
+                "pld": 3,
                 "gf": 2,
                 "ga": 2,
                 "gd": 0,
+                "pts": 3,
+                "wins": 0,
+                "draws": 3,
+                "losses": 0
+            },
+            {
+                "team": "Uruguay",
+                "flag": "🇺🇾",
+                "pld": 3,
+                "gf": 3,
+                "ga": 4,
+                "gd": -1,
                 "pts": 2,
                 "wins": 0,
                 "draws": 2,
-                "losses": 0
+                "losses": 1
             },
             {
                 "team": "Saudi Arabia",
                 "flag": "🇸🇦",
-                "pld": 2,
+                "pld": 3,
                 "gf": 1,
                 "ga": 5,
                 "gd": -4,
-                "pts": 1,
+                "pts": 2,
                 "wins": 0,
-                "draws": 1,
+                "draws": 2,
                 "losses": 1
             }
         ],
         "I": [
             {
-                "team": "Norway",
-                "flag": "🇳🇴",
-                "pld": 2,
-                "gf": 7,
-                "ga": 3,
-                "gd": 4,
-                "pts": 6,
-                "wins": 2,
+                "team": "France",
+                "flag": "🇫🇷",
+                "pld": 3,
+                "gf": 8,
+                "ga": 2,
+                "gd": 6,
+                "pts": 9,
+                "wins": 3,
                 "draws": 0,
                 "losses": 0
             },
             {
-                "team": "France",
-                "flag": "🇫🇷",
-                "pld": 2,
-                "gf": 4,
-                "ga": 1,
-                "gd": 3,
+                "team": "Norway",
+                "flag": "🇳🇴",
+                "pld": 3,
+                "gf": 8,
+                "ga": 7,
+                "gd": 1,
                 "pts": 6,
                 "wins": 2,
                 "draws": 0,
-                "losses": 0
+                "losses": 1
             },
             {
                 "team": "Senegal",
                 "flag": "🇸🇳",
-                "pld": 2,
-                "gf": 3,
+                "pld": 3,
+                "gf": 8,
                 "ga": 6,
-                "gd": -3,
-                "pts": 0,
-                "wins": 0,
+                "gd": 2,
+                "pts": 3,
+                "wins": 1,
                 "draws": 0,
                 "losses": 2
             },
             {
                 "team": "Iraq",
                 "flag": "🇮🇶",
-                "pld": 2,
+                "pld": 3,
                 "gf": 1,
-                "ga": 5,
-                "gd": -4,
+                "ga": 10,
+                "gd": -9,
                 "pts": 0,
                 "wins": 0,
                 "draws": 0,
-                "losses": 2
+                "losses": 3
             }
         ],
         "J": [
@@ -1642,9 +1642,7 @@ const tournamentData = {
             "score2": 0,
             "scorers1": [],
             "scorers2": []
-        }
-    ],
-    "upcoming": [
+        },
         {
             "date": "June 27",
             "time": "12:30 AM IST",
@@ -1653,7 +1651,18 @@ const tournamentData = {
             "team1": "Norway",
             "flag1": "🇳🇴",
             "team2": "France",
-            "flag2": "🇫🇷"
+            "flag2": "🇫🇷",
+            "status": "FT",
+            "score1": 1,
+            "score2": 4,
+            "scorers1": [
+                "E. Haaland 45'"
+            ],
+            "scorers2": [
+                "K. Mbappé 12', 33'",
+                "A. Griezmann 54'",
+                "O. Dembélé 88'"
+            ]
         },
         {
             "date": "June 27",
@@ -1663,7 +1672,17 @@ const tournamentData = {
             "team1": "Senegal",
             "flag1": "🇸🇳",
             "team2": "Iraq",
-            "flag2": "🇮🇶"
+            "flag2": "🇮🇶",
+            "status": "FT",
+            "score1": 5,
+            "score2": 0,
+            "scorers1": [
+                "S. Mané 12', 45'",
+                "I. Sarr 55'",
+                "B. Dia 67'",
+                "N. Jackson 89'"
+            ],
+            "scorers2": []
         },
         {
             "date": "June 27",
@@ -1673,7 +1692,14 @@ const tournamentData = {
             "team1": "Uruguay",
             "flag1": "🇺🇾",
             "team2": "Spain",
-            "flag2": "🇪🇸"
+            "flag2": "🇪🇸",
+            "status": "FT",
+            "score1": 0,
+            "score2": 1,
+            "scorers1": [],
+            "scorers2": [
+                "A. Morata 45'"
+            ]
         },
         {
             "date": "June 27",
@@ -1683,7 +1709,12 @@ const tournamentData = {
             "team1": "Cabo Verde",
             "flag1": "🇨🇻",
             "team2": "Saudi Arabia",
-            "flag2": "🇸🇦"
+            "flag2": "🇸🇦",
+            "status": "FT",
+            "score1": 0,
+            "score2": 0,
+            "scorers1": [],
+            "scorers2": []
         },
         {
             "date": "June 27",
@@ -1693,7 +1724,16 @@ const tournamentData = {
             "team1": "Egypt",
             "flag1": "🇪🇬",
             "team2": "Iran",
-            "flag2": "🇮🇷"
+            "flag2": "🇮🇷",
+            "status": "FT",
+            "score1": 1,
+            "score2": 1,
+            "scorers1": [
+                "M. Saber 45'"
+            ],
+            "scorers2": [
+                "R. Rezaeian 78'"
+            ]
         },
         {
             "date": "June 27",
@@ -1703,8 +1743,22 @@ const tournamentData = {
             "team1": "New Zealand",
             "flag1": "🇳🇿",
             "team2": "Belgium",
-            "flag2": "🇧🇪"
-        },
+            "flag2": "🇧🇪",
+            "status": "FT",
+            "score1": 1,
+            "score2": 5,
+            "scorers1": [
+                "E. Just 12'"
+            ],
+            "scorers2": [
+                "L. Trossard 22', 45'",
+                "K. De Bruyne 55'",
+                "R. Lukaku 67'",
+                "A. Saelemaekers 89'"
+            ]
+        }
+    ],
+    "upcoming": [
         {
             "date": "June 27",
             "time": "11:30 PM IST",
@@ -1821,22 +1875,22 @@ const tournamentData = {
                 "date": "Tue, 30 Jun, 2:00 am",
                 "team1": "Germany",
                 "flag1": "🇩🇪",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team2": "Paraguay",
+                "flag2": "🇵🇾"
             },
             {
                 "id": "M4",
                 "date": "Wed, 1 Jul, 2:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team1": "France",
+                "flag1": "🇫🇷",
+                "team2": "Sweden",
+                "flag2": "🇸🇪"
             },
             {
                 "id": "M5",
                 "date": "Thu, 2 Jul, 1:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
+                "team1": "Belgium",
+                "flag1": "🇧🇪",
                 "team2": "TBD",
                 "flag2": "🏳️"
             },
@@ -1845,14 +1899,14 @@ const tournamentData = {
                 "date": "Thu, 2 Jul, 5:30 am",
                 "team1": "USA",
                 "flag1": "🇺🇸",
-                "team2": "Bosnia & Herz.",
+                "team2": "Bosnia and Herzegovina",
                 "flag2": "🇧🇦"
             },
             {
                 "id": "M7",
                 "date": "Fri, 3 Jul, 12:30 am",
-                "team1": "TBD",
-                "flag1": "🏳️",
+                "team1": "Spain",
+                "flag1": "🇪🇸",
                 "team2": "TBD",
                 "flag2": "🏳️"
             },
@@ -1875,10 +1929,10 @@ const tournamentData = {
             {
                 "id": "M10",
                 "date": "Tue, 30 Jun, 10:30 pm",
-                "team1": "Ivory Coast",
+                "team1": "Côte d'Ivoire",
                 "flag1": "🇨🇮",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team2": "Norway",
+                "flag2": "🇳🇴"
             },
             {
                 "id": "M11",
@@ -1917,16 +1971,16 @@ const tournamentData = {
                 "date": "Fri, 3 Jul, 11:30 pm",
                 "team1": "Australia",
                 "flag1": "🇦🇺",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team2": "Egypt",
+                "flag2": "🇪🇬"
             },
             {
                 "id": "M16",
                 "date": "Sat, 4 Jul, 3:30 am",
                 "team1": "Argentina",
                 "flag1": "🇦🇷",
-                "team2": "TBD",
-                "flag2": "🏳️"
+                "team2": "Cabo Verde",
+                "flag2": "🇨🇻"
             }
         ],
         "roundOf16": [
